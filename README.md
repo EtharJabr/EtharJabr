@@ -2,7 +2,7 @@
 # Welcome to my github! 👋
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/Sarthakbh321/sarthakbh321/master/intro.gif">
+	<img src="https://raw.githubusercontent.com/Ethar/Ethar/master/intro.gif">
 </div>
 
 <h3 align="center">A passionate frontend developer from India</h3>
