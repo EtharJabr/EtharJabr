@@ -1,8 +1,9 @@
-# Welcome to my github! 👋
+<h1 align="center">Ethar</h1>
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/username/repository/branch/path/to/intro.gif" alt="Ethar's GitHub Introduction">
+	<img src="https://raw.githubusercontent.com/Sarthakbh321/sarthakbh321/master/intro.gif" alt="Welcome Image">
 </div>
+
 
 
 
