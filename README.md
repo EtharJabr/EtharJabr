@@ -1,34 +1,9 @@
-<img src="https://raw.githubusercontent.com/hedythedev/hedythedev/master/assets/hedylibanner.png" alt="Hey, I'm Ethar [banner]" />
-<!--
-How did I make the fabulous banner?
-Well, I did it using canva.com, nothing fancy completely free :)
--->
+# Welcome to my github! 👋
 
-<!--
-<h1 align="center">Sup everyone! 👋</h1>
--->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ethar" alt="ethar" /> <img src="https://img.shields.io/badge/Pronouns-She%2FHer-green" alt="pronouns: she/her" /> </p>
-<!--
-The above contains two badges, one is profile views count, and the other
-one is "pronouns" info from shields.io
--->
+<div align="center">
+	<img src="https://raw.githubusercontent.com/username/repository/branch/path/to/intro.gif" alt="Ethar's GitHub Introduction">
+</div>
 
-<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="45" height="45"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>  </p>
-<!--
-The above are the languages/technologies icons from devicons :)
--->
-
-<p align="center">
-<a href="https://dev.to/ethar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ethar" height="20" width="20" /></a>
-<a href="https://twitter.com/ethar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ethar" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/ethar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ethar" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/ethar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ethar" height="20" width="20" /></a>
-</p>
-<!--
-These are my social profile links/icons
--->
-
-<br/>
 
 
 
