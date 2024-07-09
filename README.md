@@ -3,6 +3,8 @@
 <div align="center">
 	<img src="https://raw.githubusercontent.com/Sarthakbh321/sarthakbh321/master/intro.gif" alt="Welcome Image">
 </div>
+<h1 align="center">Ethar</h1>
+
 
 
 
